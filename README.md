@@ -1,4 +1,4 @@
-## Hey 👋
+## Hi there 👋
 
 I’m Malin, a journalist turned developer based in Stockholm, Sweden.
 
