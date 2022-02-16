@@ -13,4 +13,4 @@ I have a bachelor’s degree in journalism and worked as a writer and social med
 HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Sass | Bootstrap | Node.js | Express.js | MongoDB | Postman | Cypress
 
 ### Contact
-💬 Want to get in touch? Send me an email at malincodes@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/malin-helena-nilsson/).
+💬 Want to get in touch? Send me an email at malin@devmalin.se or connect with me on [LinkedIn](https://www.linkedin.com/in/malin-helena-nilsson/).
