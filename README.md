@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👩‍💻 I’m Malin, a journalist turned developer based in Stockholm, Sweden.
+👩‍💻 I’m Malin, an aspiring front end developer with a background in social media and communication.
 
 ### About me
 I have a bachelor’s degree in journalism and worked as a writer and social media manager for 8 years before discovering my love for front end development. 
