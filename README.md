@@ -10,7 +10,7 @@ I have a bachelor’s degree in journalism and worked as a writer and social med
 🐶 When I’m not coding, you’ll find me doing yoga with Adriene, rewatching old Seinfeld episodes for the 1000th time or googling pictures of dogs
 
 ### Languages & tools
-HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Sass | Bootstrap | Node.js | Express.js | MongoDB | Postman | Cypress
+HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Sass | Bootstrap | Node.js | Express.js | MongoDB | Mongoose | Postman | Cypress
 
 ### Contact
 💬 Want to get in touch? Send me an email at malin@devmalin.se or connect with me on [LinkedIn](https://www.linkedin.com/in/malin-helena-nilsson/).
