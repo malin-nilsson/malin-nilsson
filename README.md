@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 👩‍💻 I’m Malin, an aspiring front end developer with a background in communication and social media.
 
@@ -10,7 +10,7 @@ I have a bachelor’s degree in journalism and worked as a writer and social med
 🐶 When I’m not coding, you’ll find me doing yoga with Adriene, watching dog videos, fueling my iced coffee addiction or rewatching old Seinfeld episodes for the 1000th time.
 
 ### Languages & tools
-HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Sass | React | Vue | Node.js | Express.js | MongoDB | Mongoose | Cypress | Adobe Ps, Id, Ai & XD | Figma
+HTML | CSS | Sass | JavaScript | TypeScript | React | Vue | Node | Express | MongoDB | Firebase | Cypress | Adobe Ps, Id, Ai & XD | Figma
 
 ### Contact
 💬 Want to get in touch? Send me an email at malin@devmalin.se or connect with me on [LinkedIn](https://www.linkedin.com/in/malin-helena-nilsson/).
