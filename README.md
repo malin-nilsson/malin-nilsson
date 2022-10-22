@@ -1,4 +1,4 @@
-## Hi 👋
+## 👋 Hi!
 
 👩‍💻 I’m Malin, an aspiring front end developer with a background in communication and social media.
 
@@ -6,8 +6,9 @@
 I have a bachelor’s degree in journalism and worked as a writer and social media manager for 8 years before discovering my love for front end development. 
 
 🌱 I’m currently a front end developer intern at [ICA Sverige](https://www.ica.se/) <br />
+Learning more about and studying
 🚀 Studying Front End Development at [Medieinstitutet](https://medieinstitutet.se/utbildningar/front-end-developer/) and graduate spring of 2023<br />
-🐶 When I’m not coding, you’ll find me doing yoga with Adriene, watching dog videos, fueling my iced coffee addiction or rewatching old Seinfeld episodes for the 1000th time.
+🐶 When I’m not coding, I'm probably making iced coffee, cuddling with dogs, or rewatching old Seinfeld episodes for the 1000th time.
 
 ### Languages & tools
 HTML | CSS | Sass | JavaScript | TypeScript | React | Vue | Node | Express | MongoDB | Firebase | Cypress | Adobe Ps, Id, Ai & XD | Figma
