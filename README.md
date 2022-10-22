@@ -6,7 +6,6 @@
 I have a bachelor’s degree in journalism and worked as a writer and social media manager for 8 years before discovering my love for front end development. 
 
 🌱 I’m currently a front end developer intern at [ICA Sverige](https://www.ica.se/) <br />
-Learning more about and studying
 🚀 Studying Front End Development at [Medieinstitutet](https://medieinstitutet.se/utbildningar/front-end-developer/) and graduate spring of 2023<br />
 🐶 When I’m not coding, I'm probably making iced coffee, cuddling with dogs, or rewatching old Seinfeld episodes for the 1000th time.
 
