@@ -10,7 +10,7 @@ I have a bachelor’s degree in journalism and worked as a writer and social med
 🐶 When I’m not coding, I'm probably making iced coffee, cuddling with dogs, or rewatching old Seinfeld episodes for the 1000th time.
 
 ### Languages & tools
-HTML | CSS | Sass | JavaScript | TypeScript | React | Vue | Node | Express | MongoDB | Firebase | Cypress | Adobe Ps, Id, Ai & XD | Figma
+HTML | CSS | Sass | JavaScript | TypeScript | React | Vue | Node | Express | MongoDB | Firebase | Sanity | Cypress | Adobe Ps, Id, Ai & XD | Figma
 
 ### Contact
 💬 Want to get in touch? Send me an email at malin@devmalin.se or connect with me on [LinkedIn](https://www.linkedin.com/in/malin-helena-nilsson/).
