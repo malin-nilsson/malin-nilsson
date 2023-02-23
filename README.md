@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-👩‍💻 I’m Malin, an aspiring front end developer with a background in communication and social media.
+👩‍💻 I’m Malin, an aspiring front end developer specializing in React and Vue.
 
 ### About me
 I have a bachelor’s degree in journalism and worked as a writer and social media manager for 8 years before discovering my love for front end development. 
